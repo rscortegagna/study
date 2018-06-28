@@ -2,6 +2,9 @@ package com.hackerrank.strings;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-substring/problem
+ */
 public class Substring {
 
     public static void main(String[] args) {
@@ -11,7 +14,7 @@ public class Substring {
         int start = scanner.nextInt();
         int end = scanner.nextInt();
 
-        System.out.println(S.substring(start,end));
+        System.out.println(S.substring(start, end));
     }
 
 }

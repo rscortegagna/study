@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-anagrams/problem
+ */
 public class Anagrams {
 
     public static void main(String[] args) {
@@ -11,7 +14,7 @@ public class Anagrams {
         String firstString = scanner.next();
         String secondString = scanner.next();
 
-        System.out.println(isAnagram(firstString,secondString) ? "Anagrams" : "Not Anagrams");
+        System.out.println(isAnagram(firstString, secondString) ? "Anagrams" : "Not Anagrams");
     }
 
     static boolean isAnagram(String firstString, String secondString) {

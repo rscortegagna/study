@@ -2,6 +2,9 @@ package com.hackerrank.strings;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-string-tokens/problem
+ */
 public class Tokens {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
