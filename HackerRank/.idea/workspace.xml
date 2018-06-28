@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03140160-ad3a-45eb-8a13-ac72c10c4c10" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/Regex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/SubstringComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/introduction/OutputFormatting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ServletApplication/ServletApplication.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/Player.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ServletApplication/src/com/tennisrank/User.java" afterDir="false" />
@@ -18,11 +17,6 @@
       <change afterPath="$PROJECT_DIR$/../ServletApplication/web/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ServletApplication/web/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerrank/strings/Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerrank/strings/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerrank/strings/StringsIntroduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/StringsIntroduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerrank/strings/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerrank/strings/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerrank/strings/Tokens.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,11 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tokens.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tokens.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hackerrank/strings/Tokens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OutputFormatting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/OutputFormatting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -177,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/com/hackerrank/strings/StringReverse.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/strings/Substring.java" />
         <option value="$PROJECT_DIR$/src/com/hackerrank/strings/Tokens.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/introduction/OutputFormatting.java" />
       </list>
     </option>
   </component>
@@ -267,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Regex">
+  <component name="RunManager" selected="Application.OutputFormatting">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackerrank.strings.Anagrams" />
       <module name="HackerRank" />
@@ -279,19 +283,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerrank.strings.Regex" />
+    <configuration name="OutputFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.introduction.OutputFormatting" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerrank.strings.*" />
+          <option name="PATTERN" value="com.hackerrank.introduction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerrank.strings.StringReverse" />
+    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.strings.Regex" />
       <module name="HackerRank" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -365,19 +369,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringReverse" />
       <item itemvalue="Application.Anagrams" />
       <item itemvalue="Application.Tokens" />
       <item itemvalue="Application.SubstringComparision" />
       <item itemvalue="Application.Regex" />
+      <item itemvalue="Application.OutputFormatting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutputFormatting" />
         <item itemvalue="Application.Regex" />
         <item itemvalue="Application.SubstringComparision" />
         <item itemvalue="Application.Tokens" />
         <item itemvalue="Application.Anagrams" />
-        <item itemvalue="Application.StringReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +395,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529351192799</updated>
-      <workItem from="1530205866268" duration="10059000" />
+      <workItem from="1530205866268" duration="11054000" />
     </task>
     <task id="LOCAL-00001" summary="HackerRank Java introduction challenges">
       <created>1529713863487</created>
@@ -414,11 +418,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530211892977</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HackerRank Java String challenges">
+      <created>1530218424772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530218424772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10059000" />
+    <option name="totallyTimeSpent" value="11054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1922" height="1056" extended-state="6" />
@@ -433,12 +444,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3301887" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30083856" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30083856" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19010417" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19010417" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -464,7 +475,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HackerRank Java introduction challenges" />
     <MESSAGE value="HackerRank Java String challenges (first 5)" />
-    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Java String challenges (first 5)" />
+    <MESSAGE value="HackerRank Java String challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="HackerRank Java String challenges" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,13 +523,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/StdinStdoutII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="23" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/StdinStdoutI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -890,8 +895,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/strings/Tokens.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/introduction/OutputFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
