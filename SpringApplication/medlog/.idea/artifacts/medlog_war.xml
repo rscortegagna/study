@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="medlog:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="medlog.war">
-      <element id="artifact" artifact-name="medlog:war exploded" />
-    </root>
-  </artifact>
-</component>
